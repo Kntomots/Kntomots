@@ -1,10 +1,17 @@
-Hey there 👋 I’m Konstantinos  
-A Software Engineer who enjoys building things on the backend — and making them work well.
+## 👋 Hi, I’m Konstantinos
 
-🛠️ I’ve worked with Python, Java, React, JavaScript, HTML & CSS  
-☁️ Salesforce experience: CRM, Apex  
-📈 Currently exploring: Marketing Cloud  
+I’m a Software Engineer with a strong passion for backend development.  
+I enjoy building reliable systems, working with APIs, and integrating platforms that solve real problems.
 
-Always curious, always learning.
+I have experience with Python, Java, JavaScript, React, and Salesforce (CRM & Apex).  
+Currently, I’m expanding my skills by learning Salesforce Marketing Cloud.
 
-🔗 LinkedIn: https://www.linkedin.com/in/konstantinos-ntomotsidis-a9abb5283/
+I’m always curious, motivated to learn, and focused on writing clean, maintainable code.
+
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, JavaScript  
+- **Frontend:** React, HTML, CSS  
+- **Salesforce:** CRM, Apex, Marketing Cloud (learning)
+
+### 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/konstantinos-ntomotsidis-a9abb5283/
