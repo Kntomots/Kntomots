@@ -9,7 +9,7 @@ Currently, I’m expanding my skills by learning Salesforce Marketing Cloud.
 I’m always curious, motivated to learn, and focused on writing clean, maintainable code.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, Java, JavaScript  
+- **Languages:** JavaScript, Java, Python   
 - **Frontend:** React, HTML, CSS  
 - **Salesforce:** CRM, Apex, Marketing Cloud (learning)
 
